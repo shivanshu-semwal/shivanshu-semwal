@@ -32,3 +32,11 @@ Language or tool | Information about it
 ## Connect with me:
 
 [<img align="left" alt="__ubuntu__linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__ubuntu__linux)
+<br/>
+
+
+
+<p align="left"> 
+  Visitor count <br />
+  <img src="https://profile-counter.glitch.me/shivanshu-semwal/count.svg" />
+</p>
