@@ -17,7 +17,7 @@
 `vim`, `VSCode` | Editor
 `alacritty` | Terminal
 `zsh`, `bash`, `powershell`| Shell
-
+`nord`, `gruvbox`, `dracula`| themes
 ---
 
 ## Stats:
