@@ -2,33 +2,30 @@
 
 ## I'm a CS undergrad.
 
-- 🔭 I’m currently exploring the realms of `Computer Science`
-- 🌱 I’m currently learning about `Data Structures and Algorithms`
-- 👯 Open to collaborate.
-- 💼  Currently studying so seeking opportunities.
-- ⚡ Hobbies: I like watching anime and sketching.
-
+- 🔭 {I’m currently exploring the realms of `Computer Science`}
+- 🤝 {Open to collaborate}
+- 💼 {Currently studying so seeking opportunities}
+- 😺 {Hobbies: Ricing my Linux {🐧}, playing [chess](https://lichess.org/@/SHIVanSHUSEM) {♟️} ,drawing anime characters {🎨}}
 ---
 
-### Languages and Tools:
+### What I have used and use:
 
-Language or tool | Information about it
+`x` | `whatis x`
 ---|---
-<img align="left" alt="C" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img align="left" alt="C++" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> <img align="left" alt="python" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img align="left" alt="python" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> | Programming Language
-<img align="left" alt="linux" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> <img align="left" alt="ubuntu" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> | Operating System
-<img align="left" alt="git" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> | Version-Control
-<img alt="vim" width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"> | Editor
+`C`, `C++`, `Java`, `Python` | Programming Language
+`git` | Version-Control
+`vim`, `VSCode` | Editor
+`alacritty` | Terminal
+`zsh`, `bash`, `powershell`| Shell
 
 ---
 
 ## Stats:
 
-![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=shivanshu-semwal&show_icons=true&theme=radical)
+![no of profile visits](https://komarev.com/ghpvc/?username=shivanshu-semwal&style=flat-square)
 
-## Language stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu-semwal)
+![Shivanshu's github stats](https://github-readme-stats.vercel.app/api?username=shivanshu-semwal&show_icons=true&theme=radical&hide_rank=true&disable_animations=true&hide_border=true&border_radius=0&bg_color=252a32&text_color=d8dee9&hide_title=true)
 
 ## Connect with me:
 
-[<img align="left" alt="__ubuntu__linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__ubuntu__linux)
+- 📧 `semwalshivanshu@gmail.com`
