@@ -8,8 +8,6 @@ skills:
         {C, C++, Java, Python, Lua, Shell}
 ```
 
----
-
 `~/.contact`
 
 [`mail`](mailto:semwalshivanshu@gmail.com)
