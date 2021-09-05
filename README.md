@@ -12,4 +12,4 @@ skills:
 
 `~/.contact`
 
-[mail](mailto:semwalshivanshu@gmail.com)
+[`mail`](mailto:semwalshivanshu@gmail.com)
