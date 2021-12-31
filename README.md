@@ -1,17 +1,17 @@
-`~/.profile`
+`~/.profile 👨‍💻`
 
 ```yaml
 name:        Shivanshu
 education:   B.Tech
 ```
 
-`~/work`
+`~/work 🛠️`
 
-- [Blog](https://shivanshu-semwal.github.io/blog/)
-- [Projects](https://github.com/shivanshu-semwal?tab=repositories)
-- [Linux-mine](https://shivanshu-semwal.github.io/linux_mine/)
+- [Blog 📝](https://shivanshu-semwal.github.io/blog/)
+- [Projects 🚧](https://github.com/shivanshu-semwal?tab=repositories)
+- [Linux-mine 🐧](https://shivanshu-semwal.github.io/linux_mine/)
 
-`~/technologies`
+`~/technologies 💻`
 
 - **Languages:**
   `C`, `C++`, `Java`, `Python`, `R`, `Julia`, `Scala`, `lua`
@@ -26,8 +26,8 @@ education:   B.Tech
 - **Daily drivers:**
   Lubuntu, i3wm, zsh, vim, Visual Studio Code
 
-`~/.contact`
+`~/.contact 📞`
 
-- <a href="mailto:semwalshivanshu@gmail.com?subject=github:">Mail</a>
+- <a href="mailto:semwalshivanshu@gmail.com?subject=github:">Mail 📧</a>
 - <a href="https://www.linkedin.com/in/shivanshu-semwal/">linkedin</a>
 - <a href="https://github.com/totoro-ghost">alt-github</a>
