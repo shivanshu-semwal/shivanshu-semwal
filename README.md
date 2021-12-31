@@ -7,7 +7,7 @@ education:   B.Tech
 
 `~/work`
 
-- [blog](https://github.com/shivanshu-semwal/blog)
+- [blog](https://shivanshu-semwal.github.io/blog/)
 - [projects](https://github.com/shivanshu-semwal?tab=repositories)
 - [linux-mines](https://shivanshu-semwal.github.io/linux_mine/)
 
