@@ -7,9 +7,9 @@ education:   B.Tech
 
 `~/work`
 
-- [blog](https://shivanshu-semwal.github.io/blog/)
-- [projects](https://github.com/shivanshu-semwal?tab=repositories)
-- [linux-mines](https://shivanshu-semwal.github.io/linux_mine/)
+- [Blog](https://shivanshu-semwal.github.io/blog/)
+- [Projects](https://github.com/shivanshu-semwal?tab=repositories)
+- [Linux-mine](https://shivanshu-semwal.github.io/linux_mine/)
 
 `~/technologies`
 
@@ -28,6 +28,6 @@ education:   B.Tech
 
 `~/.contact`
 
-- <a href="mailto:semwalshivanshu@gmail.com?subject=github:">mail</a>
-- <a href="https://www.linkedin.com/in/shivanshu-6b869b196/">linkedin</a>
+- <a href="mailto:semwalshivanshu@gmail.com?subject=github:">Mail</a>
+- <a href="https://www.linkedin.com/in/shivanshu-semwal/">linkedin</a>
 - <a href="https://github.com/totoro-ghost">alt-github</a>
