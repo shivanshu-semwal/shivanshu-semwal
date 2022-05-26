@@ -10,22 +10,22 @@ I am also an open-source enthusiast 🌟. I learned a lot from the open-source c
 
 - [Portfolio 🖊](https://shivanshu-semwal.github.io)
 - [Blog 📝](https://shivanshu-semwal.github.io/blog/)
-- [Projects 🚧](https://shivanshu-semwal.github.io/blog/)
+- [Projects 🚧](https://shivanshu-semwal.github.io/projects/)
 
 ## Technologies I have worked with
 
 - **Languages:**
   `C`, `C++`, `Java`, `Python`, `R`, `Julia`, `Scala`, `lua`
 - **Clouds:**
-  Amazon Web Services, Google Cloud Platform
+  `Amazon Web Services`, `Google Cloud Platform`
 - **Data stores:**
-  MySQL, MariaDB, neo4j
+  `MySQL`, `MariaDB`, `neo4j`
 - **Version Control:**
   `git`
 - **Operating Systems:**
-  Ubuntu, Arch, Fedora
+  `Ubuntu`, `Arch`, `Fedora`, `Windows`
 - **Daily drivers:**
-  Lubuntu, i3wm, zsh, vim, Visual Studio Code
+  `Lubuntu`, `i3wm`, `zsh`, `vim`, `Visual Studio Code`
 
 ## Connect with me 🌍
 
