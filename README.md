@@ -29,9 +29,18 @@ I am also an open-source enthusiast 🌟. I learned a lot from the open-source c
 
 ## Connect with me 🌍
 
-- <a href="mailto:semwalshivanshu@gmail.com?subject=github:">Mail 📧</a>
-- <a href="https://www.linkedin.com/in/shivanshu-semwal/">linkedin</a>
-- <a href="https://github.com/totoro-ghost">alt-github</a>
+<a href="mailto:semwalshivanshu@gmail.com?subject=github:">
+  <img height="25px" src="./img/gmail.svg">
+</a>
+<a href="https://www.linkedin.com/in/shivanshu-semwal/">
+  <img height="25px" src="./img/linkedin.svg">
+</a>
+<a href="https://github.com/totoro-ghost">
+  <img height="25px" src="./img/github.svg">
+</a>
+<a href="https://twitter.com/shivanshusemwal">
+  <img height="25px" src="./img/twitter.svg">
+</a>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shivanshu-semwal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
