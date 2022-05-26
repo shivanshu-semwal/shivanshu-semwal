@@ -8,9 +8,10 @@ I am also an open-source enthusiast 🌟. I learned a lot from the open-source c
 
 ## More about me...
 
-- [Portfolio 🖊](https://shivanshu-semwal.github.io)
-- [Blog 📝](https://shivanshu-semwal.github.io/blog/)
-- [Projects 🚧](https://shivanshu-semwal.github.io/projects/)
+- [Portfolio](https://shivanshu-semwal.github.io) - more about me.
+- [Blog](https://shivanshu-semwal.github.io/blog/) - technical blogs 
+  about linux and productivity.
+- [Projects](https://shivanshu-semwal.github.io/projects/) - projects i've worked in.
 
 ## Technologies I have worked with
 
