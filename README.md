@@ -1,4 +1,4 @@
-```sh
+```bash
 echo "Hey there"
 cat details.yaml
 ```
@@ -27,7 +27,7 @@ skills:
   - neo4j
 ```
 
-```sh
+```bash
 cat links.md
 ```
 
@@ -35,7 +35,7 @@ cat links.md
 - `Blog` <https://shivanshu-semwal.github.io/blog>
 - `Projects` <https://shivanshu-semwal.github.io/projects>
 
-```sh
+```bash
 cat contact.md
 ```
 
