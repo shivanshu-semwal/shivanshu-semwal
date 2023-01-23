@@ -7,24 +7,6 @@ cat details.yaml
 name: Shivanshu
 education:
 - Bachelor of Technology (Computer Science)
-skills:
-- programming:
-  - C
-  - C++
-  - Java
-  - R
-  - Julia
-  - Scala
-  - lua
-  - bash scripting
-- cloud-tech:
-  - aws
-  - gcp
-  - azure
-- databases:
-  - mysql
-  - mongodb
-  - neo4j
 ```
 
 ```bash
