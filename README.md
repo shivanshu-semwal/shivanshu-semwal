@@ -1,10 +1,9 @@
 <h1 align="center">
-Hi there, I'm Shivanshu
+  <a href="https://shivanshu-semwal.github.io">Portfolio</a>
 </h1>
 
 <p align="center">
-  <b><a href="https://shivanshu-semwal.github.io">Portfolio</a> <br></b>
-  <a href="mailto:semwalshivanshu@gmail.com">semwalshivanshu@gmail.com</a>
+  Contact - <a href="mailto:semwalshivanshu@gmail.com">semwalshivanshu@gmail.com</a>
 </p>
 
 <p align="center">
