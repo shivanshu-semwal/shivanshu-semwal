@@ -12,3 +12,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shivanshu-semwal&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
+
+## Other profiles
+
+- [Totoro-ghost](https://github.com/Totoro-ghost) for linux related stuff!
+- [TotoroCodingDojo](https://github.com/TotoroCodingDojo) for my programming experiements!!
