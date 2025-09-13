@@ -16,4 +16,3 @@
 ## Other profiles
 
 - [Totoro-ghost](https://github.com/Totoro-ghost) for linux related stuff!
-- [TotoroCodingDojo](https://github.com/TotoroCodingDojo) for my programming experiements!!
